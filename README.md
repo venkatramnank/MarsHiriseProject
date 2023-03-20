@@ -10,7 +10,7 @@ __date__ = March 20 2023
 
 
 # Directory Structure   
-
+```bash
 ├── backup_script
 ├── chkpts
 ├── data
@@ -38,7 +38,7 @@ __date__ = March 20 2023
     │   └── __pycache__
     ├── general_utils
     └── __pycache__
-
+```
 
 # Description of project
 
