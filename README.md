@@ -1,9 +1,4 @@
-__author__ = "Venkat Ramnan K"
-__license__ = "GPL"
-__version__ = "0.0.1"
-__email__ = "kalyanav@oregonstate.com"
-__date__ = March 20 2023
-
+# Mars Hirise Classification and Explanation for classification
 
 # Directory Structure   
 ```bash
