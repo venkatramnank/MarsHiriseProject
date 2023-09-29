@@ -6,16 +6,12 @@ __date__ = March 20 2023
 
 
 # Directory Structure   
-
+```bash
 .
 ├── backup_script
-
 ├── chkpts
-
 ├── data
-
 ├── docs
-
 ├── images
 │   └── gradcam
 ├── losses
@@ -39,7 +35,7 @@ __date__ = March 20 2023
     │   └── __pycache__
     ├── general_utils
     └── __pycache__
-
+```
 # Description of project
 
 The goal behind the project is to train a classifier to classify the mars HiRISE images. The focus would be
