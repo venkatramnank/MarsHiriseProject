@@ -97,7 +97,7 @@ To run the backup code, after getting into backup_script directory :
 The newly trained model weights are stored as a pth file in results folder. To re use them, please store them in chkpts directory.
 
 # Presentation
-[presentation](./images/image.png)
+![presentation](./images/image.png)
 
 
 # License
