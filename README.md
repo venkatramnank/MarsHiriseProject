@@ -31,6 +31,38 @@
     ├── general_utils
     └── __pycache__
 ```
+<details>
+<summary>Directory Structure</summary>
+.
+├── backup_script
+├── chkpts
+├── data
+├── docs
+├── images
+│   └── gradcam
+├── losses
+│   └── __pycache__
+├── models
+│   └── __pycache__
+├── notebooks
+├── results
+│   └── cfmatrices
+├── scripts
+│   └── __pycache__
+├── src
+│   └── __pycache__
+├── tests
+└── utils
+    ├── data
+    │   └── __pycache__
+    ├── data_utils
+    │   └── __pycache__
+    ├── explainable_utils
+    │   └── __pycache__
+    ├── general_utils
+    └── __pycache__
+<\details>
+
 # Description of project
 
 The goal behind the project is to train a classifier to classify the mars HiRISE images. The focus would be
