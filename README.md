@@ -1,37 +1,5 @@
 # Mars Hirise Classification and Explanation for classification
 
-# Directory Structure   
-<details>
-<summary>Directory Structure</summary>
-.
-├── backup_script
-├── chkpts
-├── data
-├── docs
-├── images
-│   └── gradcam
-├── losses
-│   └── __pycache__
-├── models
-│   └── __pycache__
-├── notebooks
-├── results
-│   └── cfmatrices
-├── scripts
-│   └── __pycache__
-├── src
-│   └── __pycache__
-├── tests
-└── utils
-    ├── data
-    │   └── __pycache__
-    ├── data_utils
-    │   └── __pycache__
-    ├── explainable_utils
-    │   └── __pycache__
-    ├── general_utils
-    └── __pycache__
-<\details>
 
 # Description of project
 
